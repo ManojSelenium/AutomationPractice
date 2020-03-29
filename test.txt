@@ -8,9 +8,7 @@ Hi This is Pratice 2 Second line of code
 
 Hi This is Practice 1 Third line of code
 
-<<<<<<< HEAD
-Hi This is Pratcie 1 Fourth Line of code
-=======
 Hi This is Practice 2 Third line of code
->>>>>>> 28c7b773214253bed351e4f92c1f3e7f6586c49a
+
+Hi This is Pratcie 1 Fourth Line of code
 
